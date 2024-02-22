@@ -1,0 +1,72 @@
+{
+  "loginpage": {
+    "title": "Login",
+    "intro": "To access our website, register with your email and password. If you have already registered, please login.",
+    "placeholderName": "Username",
+    "placeholderEmail": "Email address",
+    "loginbutton": "Login →",
+    "signupbutton": "Create new user →"
+  },
+  "hero": {
+    "weddingwebsite": "Wedding website",
+    "locationwedding": "Kanpur, India"
+  },
+  "navbar": {
+    "RSVP": "RSVP",
+    "contactus": "Contact Us",
+    "gifts": "Registry"
+  },
+
+  "location": {
+    "introduction": "Some more information about the city where we are getting married, the location of the wedding and how to visit in Kanpur.",
+    "cerimonia": "The wedding ceremony will take place at Seema Guest House, Block K, Kidwai Nagar, Kanpur.",
+    "address": "Address",
+    "mapsuggestions": "We have marked a few things to see in the map below. The airport and train station are marked in yellow while the touristic attractions and half day trips are marked in blue and green respectively.",
+    "plane": "By Plane",
+    "car": "By car",
+    "train": "By train",
+    "planedescription1": "The closest airport is the Chakeri airport. You can catch a cab or local transport from the airport to the venue.",
+    "planedescription2": "The distance from airport to wedding venue is 12km.",
+    "planedescription3": " If you are coming from Lucknow Airport, you can catch a Bus from Airport to Kanpur Ramadevi Crossroad. From there you can catch Auto or Cab to Wedding venue to which distance is 8km. ",
+    "cardescription": "Seema Guest House is located near Madhulok Hospital, it’s on main road and easy transportation available.",
+    "traindescription": "Kanpur train station(CNB) can be reached by a lot of long-distance trains, as well as by regional trains. You can check the train schedules. ",
+    "traindescription2": ""
+  },
+  "RSVP": {
+    "title": "R.S.V.P.",
+    "fieldAttendance": "* Can you make it?",
+    "headerExplain": "Please complete the form below to let us know if you can make it to the wedding.",
+    "header": "Your RSVP",
+    "thanks": "Thanks for your RSVP. Please let us know if there are any changes at least two weeks before the wedding.",
+    "fieldName": "* Full name",
+    "fieldAddress": "* Postal address (for the official invitation)",
+    "fieldCityAddress": "City",
+    "fieldPostcodeAddress": "Postcode",
+    "fieldAttendanceYes": "Yes I will be there",
+    "fieldAttendanceNo": "I can't make it",
+    "fieldAllergies": "Do you have any allergies or dietary preferences?",
+    "fieldMusic": "Any song request?",
+    "confirm": "Submit"
+  },
+  "plusOne": {
+    "header": "What about your Plus-One?",
+    "headerEdit": "Additional info on your Plus-One",
+    "guestName": "Guest Full Name",
+    "guestAllergies": "Does your guest have allergies or dietary preferences?",
+    "title": "Do you have a Plus-One?",
+    "yes": "Yes"
+  },
+  "contactus": {
+    "title": "Get in touch",
+    "summary": "Do you have any questions? Do you want to talk about Pokémon and Dark Souls? Get in touch with us by email ",
+    "email": "shrutivermaa2209@gmail.com  or  ContactUs- 9773915609",
+    
+
+    "bridesummary": "Born and raised in Kanpur, the beautiful city, with the constant desire to travel and learn about new cultures. I decided to study in RKGIT, Ghaziabad, where I met my other half, over a cup of Tea.",
+    "groomsummary": "Born and raised in a little town chida near Sultanpur. I was always fascinated by the Computer Science. I decided to study in RKGIT, Ghaziabad and eventually completed my Mtech from NITK Suratkhal."
+  },
+  "gifts": {
+    "title": "Memories",
+    "paragraph": "Our wedding day is a celebration of the love and commitment we share, a culmination of the memories we've created together. I feel incredibly blessed to have you by my side, and I promise to cherish and honor every moment of our journey as we build our future together."
+  }
+}
