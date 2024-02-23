@@ -34,14 +34,14 @@ class App extends Component {
     // base.removeBinding(this.ref);
   }
 
-  addRSVP = RSVP => {
-    //take a copy of the existing state using an object spread
-    const RSVPs = { ...this.state.RSVPs };
-    //add our new RSVP form to the RSVPs variable
-    RSVPs[`RSVP`] = RSVP;
-    //set the new RSVP object to state
-    this.setState({ RSVPs });
-  };
+  // addRSVP = RSVP => {
+  //   //take a copy of the existing state using an object spread
+  //   const RSVPs = { ...this.state.RSVPs };
+  //   //add our new RSVP form to the RSVPs variable
+  //   RSVPs[`RSVP`] = RSVP;
+  //   //set the new RSVP object to state
+  //   this.setState({ RSVPs });
+  // };
 
   loadData = () => {
     this.setState({
@@ -49,14 +49,14 @@ class App extends Component {
     });
   };
 
-  updateRSVP = (key, updatedRSVP) => {
-    //take a copy of the current RSVP
-    const RSVPs = { ...this.state.RSVPs };
-    //update that state
-    RSVPs[key] = updatedRSVP;
-    //set this to state
-    this.setState({ RSVPs });
-  };
+  // updateRSVP = (key, updatedRSVP) => {
+  //   //take a copy of the current RSVP
+  //   const RSVPs = { ...this.state.RSVPs };
+  //   //update that state
+  //   RSVPs[key] = updatedRSVP;
+  //   //set this to state
+  //   this.setState({ RSVPs });
+  // };
 
   // signOut = async event => {
   //   event.preventDefault();
@@ -93,7 +93,7 @@ class App extends Component {
         /> */}
         {/*}<button onClick={this.signOut}>Logout</button>*/}
         <AboutUs t={this.props.t} />
-        <Gift t={this.props.t} />
+        {/* <Gift t={this.props.t} /> */}
         {/*</div><div>{this.renderApp()}</div>;*/}
       </div>
     );

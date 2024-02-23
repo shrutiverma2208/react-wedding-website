@@ -21,7 +21,7 @@ class Navbar extends React.Component {
               <span className="description">Location</span>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="#RSVP">
               <i className="fas fa-envelope-open" />
               <span className="description">
@@ -30,7 +30,7 @@ class Navbar extends React.Component {
                 })}
               </span>
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link to="#aboutUs">
               <i className="fas fa-edit" />
@@ -41,7 +41,7 @@ class Navbar extends React.Component {
               </span>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="#gifts">
               <i className="fas fa-gift" />
               <span className="description">
@@ -51,7 +51,7 @@ class Navbar extends React.Component {
                 })}
               </span>
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     );
