@@ -41,17 +41,16 @@ class Navbar extends React.Component {
               </span>
             </Link>
           </li>
-          {/* <li>
+          <li>
             <Link to="#gifts">
               <i className="fas fa-gift" />
               <span className="description">
-                {" "}
                 {this.props.t("navbar.gifts", {
                   framework: "react-i18next"
                 })}
               </span>
             </Link>
-          </li> */}
+          </li>
         </ul>
       </nav>
     );
