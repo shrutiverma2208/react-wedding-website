@@ -12,24 +12,24 @@
   justify-content: center;
   border-radius: 50%;
   border: 3px dotted rgb(191 202 233);
-  width: 40%;
+  width: 30%;
   height: 0;
-  padding: 20% 0;
+  padding: 180px 0;
   
-  line-height: 1.9rem;
+  line-height: 2.2rem;
   background-color:rgb(191 202 233);
-  opacity: 0.7;
+  opacity: 0.6;
 }
 
 #countdown > span:first-of-type {
   font-weight: bold;
-  font-size: 1.4rem;
+  font-size: 2rem;
   color:rgb(64 56 56)
 }
 
 #countdown > span:last-of-type {
   font-size: 1.5rem;
-  color: #954616;
+  color: #c6540d;
 }
 
 /* vertical mobile display */
@@ -39,7 +39,7 @@
     background-color: rgb(191 202 233);
     width: 100%;
     height: 0;
-    padding: 25% 0;
+    padding: 120px 0;
   }
 
   #countdown > span:first-of-type {
@@ -47,6 +47,7 @@
   }
 
   #countdown > span:last-of-type {
-    color: rgb(147 76 25);
+    color: rgb(164, 85, 28);
+    font-size: 1.3rem;
   }
 }
