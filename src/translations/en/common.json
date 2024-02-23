@@ -8,13 +8,13 @@
     "signupbutton": "Create new user →"
   },
   "hero": {
-    "weddingwebsite": "Wedding website",
-    "locationwedding": "Kanpur, India"
+    "weddingwebsite": "25-11-24",
+    "locationwedding": "Kanpur"
   },
   "navbar": {
-    "RSVP": "RSVP",
-    "contactus": "Contact Us",
-    "gifts": "Registry"
+    
+    "contactus": "Contact Us"
+    
   },
 
   "location": {

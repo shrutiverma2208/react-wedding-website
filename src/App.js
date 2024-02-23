@@ -81,7 +81,7 @@ class App extends Component {
           tReady={this.props.tReady}
         />
         <Location t={this.props.t} />
-        <RSVPform
+        {/* <RSVPform
           t={this.props.t}
           id="RSVP"
           user={this.props.user}
@@ -90,7 +90,7 @@ class App extends Component {
           completedForm={this.state.RSVPs}
           updateRSVP={this.updateRSVP}
           key={this.state.key}
-        />
+        /> */}
         {/*}<button onClick={this.signOut}>Logout</button>*/}
         <AboutUs t={this.props.t} />
         <Gift t={this.props.t} />
