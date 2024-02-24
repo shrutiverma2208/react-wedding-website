@@ -38,7 +38,7 @@ class Location extends React.Component {
           })}{" "}
         </p>
         <p>
-          {this.props.t("location.mapsuggestions", {
+          {this.props.t("", {
             framework: "react-i18next"
           })}
         </p>
