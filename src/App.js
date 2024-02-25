@@ -93,7 +93,7 @@ class App extends Component {
         /> */}
         {/*}<button onClick={this.signOut}>Logout</button>*/}
         <AboutUs t={this.props.t} />
-        {/* <Gift t={this.props.t} /> */}
+        { <Gift t={this.props.t} /> }
         {/*</div><div>{this.renderApp()}</div>;*/}
       </div>
     );
