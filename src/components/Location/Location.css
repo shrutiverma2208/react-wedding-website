@@ -8,11 +8,11 @@
 }
 
 .image_grid > li.small {
-  flex-basis: 30%;
+  flex-basis: 40%;
 }
 
 .image_grid > li.large {
-  flex-basis: 70%;
+  flex-basis: 40%;
 }
 
 .image_grid {
@@ -112,11 +112,11 @@ div.transportList i {
 
 @media only screen and (max-width: 600px) {
   .image_grid li.small {
-    flex-basis: 50%;
+    flex-basis: 104%;
   }
 
   .image_grid li.large {
-    flex-basis: 50%;
+    flex-basis: 104%;
   }
 
   #directions {

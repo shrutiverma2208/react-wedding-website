@@ -3,19 +3,19 @@
 }
 
 #gifts .image_grid > li:first-child {
-  background-image: url("https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=802&q=80");
+  background-image: url("./WhatsApp\ Image\ 2024-02-25\ at\ 8.10.13\ PM.jpeg");
 }
 
 #gifts .image_grid > li:nth-child(2) {
-  background-image: url("https://images.unsplash.com/photo-1476990789491-712b869b91a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1488&q=80");
+  background-image: url("./WhatsApp\ Image\ 2024-02-25\ at\ 9.37.00\ PM.jpeg");
 }
 
 #gifts .image_grid > li:nth-child(3) {
-  background-image: url("https://images.unsplash.com/photo-1470214203634-e436a8848e23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1491&q=80");
+  background-image: url("./_DSC7802\ \(1\).jpg");
 }
 
 #gifts .image_grid > li:last-child {
-  background-image: url("https://images.unsplash.com/photo-1500759285222-a95626b934cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-image: url("./WhatsApp\ Image\ 2024-02-25\ at\ 8.12.49\ PM.jpeg");
 }
 
 #bankdetails {
