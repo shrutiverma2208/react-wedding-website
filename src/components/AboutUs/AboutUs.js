@@ -24,6 +24,14 @@ class AboutUs extends React.Component {
               })}
             </a>
           </span>
+          <br/>
+          <span>
+            <a href="mailto:rferrandino_tokyo@gmail.com">
+              {this.props.t("contactus.email2", {
+                framework: "react-i18next"
+              })}
+            </a>
+          </span>
         </p>
         <hr />
         <div id="brideandgroom">
