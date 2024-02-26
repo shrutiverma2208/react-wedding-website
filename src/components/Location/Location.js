@@ -1,5 +1,6 @@
 import React from "react";
-import Map from "../Map/Map";
+import GoogleMapLink from "../Map/GoogleMapLink ";
+
 
 import "./Location.css";
 
@@ -9,7 +10,9 @@ class Location extends React.Component {
     return (
       <div className="location section" id="location">
         <h2>Location</h2>
-        <Map/>
+        <div>
+        <GoogleMapLink/>
+        </div>
         <p>
           {this.props.t("location.introduction", {
             framework: "react-i18next"

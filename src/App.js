@@ -13,7 +13,7 @@ import { translate } from "react-i18next";
 
 //connecting to the database
 import initialData from "./components/loadDatabase";
-import MapLocation from "./components/Map/MapLocation";
+
 
 
 class App extends Component {
