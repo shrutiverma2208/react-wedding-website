@@ -5,8 +5,8 @@ const Video = () => {
   return (
     <div style={{backgroundColor:'#5d6e5d'}}>
          
-      <video  style={{ height:'100vh',width: '-webkit-fill-available'}}
-         src={ganesh} 
+      <video  style={{ height:'100%',width: '100%'}}
+         src={ganesh}
          autoPlay
          muted
          loop
