@@ -39,6 +39,7 @@ a {
   text-decoration: none;
   color: var(--olivegreen);
   font-weight: bold;
+  display: block;
 }
 
 a:hover {

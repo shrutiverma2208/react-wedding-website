@@ -1,16 +1,16 @@
 import React from 'react'
-import ganesh from "./ganesh.mp4"
+import ganpatiji from "./ganpatiji.mp4"
 
 const Video = () => {
   return (
     <div style={{backgroundColor:'#5d6e5d'}}>
          
       <video  style={{ height:'100%',width: '100%'}}
-         src={ganesh}
+         src={ganpatiji}
          autoPlay
          muted
          loop
-         controls
+         controls={false}
          />
        
         

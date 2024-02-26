@@ -10,8 +10,10 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Gift from "./components/Gift/Gift";
 import { translate } from "react-i18next";
 
+
 //connecting to the database
 import initialData from "./components/loadDatabase";
+import MapLocation from "./components/Map/MapLocation";
 
 
 class App extends Component {
@@ -81,6 +83,7 @@ class App extends Component {
           tReady={this.props.tReady}
         />
         <Location t={this.props.t} />
+        
         {/* <RSVPform
           t={this.props.t}
           id="RSVP"
