@@ -13,10 +13,12 @@ class AboutUs extends React.Component {
             framework: "react-i18next"
           })}
         </h2>
+        
         <p className="moreinfo">
           {this.props.t("contactus.summary", {
             framework: "react-i18next"
           })}{" "}
+          <br/>
           <span>
             <a href="mailto:rferrandino_tokyo@gmail.com">
               {this.props.t("contactus.email", {
