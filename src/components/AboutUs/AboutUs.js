@@ -1,4 +1,5 @@
 import React from "react";
+import PhoneNumber from "../Mobile/PhoneNumber";
 import "./AboutUs.css";
 //handling the translations
 import bride from "./bride.jpg"
@@ -20,7 +21,7 @@ class AboutUs extends React.Component {
           })}{" "}
           <br/>
           <span>
-            <a href="mailto:rferrandino_tokyo@gmail.com">
+            <a style={{lineHeight:'3'}} href="mailto:rferrandino_tokyo@gmail.com">
               {this.props.t("contactus.email", {
                 framework: "react-i18next"
               })}
@@ -28,11 +29,12 @@ class AboutUs extends React.Component {
           </span>
           <br/>
           <span>
-            <a href="mailto:rferrandino_tokyo@gmail.com">
+            <a style={{lineHeight:'0'}} href="mailto:rferrandino_tokyo@gmail.com">
               {this.props.t("contactus.email2", {
                 framework: "react-i18next"
-              })}
+              })}  
             </a>
+            <PhoneNumber/>
           </span>
         </p>
         <hr />
