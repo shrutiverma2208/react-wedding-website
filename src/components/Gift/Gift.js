@@ -1,4 +1,5 @@
 import React from "react";
+import MyPage from "../MyPage/MyPage";
 import "./Gift.css";
 
 class Gift extends React.Component {
@@ -22,6 +23,9 @@ class Gift extends React.Component {
           <li role="img" aria-label="Maldive" className="large" />
           <li role="img" aria-label="Cuba" className="small" />
         </ul>
+        <div>
+          <MyPage/>
+        </div>
       </div>
     );
   }

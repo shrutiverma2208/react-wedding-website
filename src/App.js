@@ -13,6 +13,7 @@ import { translate } from "react-i18next";
 
 //connecting to the database
 import initialData from "./components/loadDatabase";
+import MyPage from "./components/MyPage/MyPage";
 
 
 
@@ -98,7 +99,9 @@ class App extends Component {
         <AboutUs t={this.props.t} />
         
         { <Gift t={this.props.t} /> }
-        {/*</div><div>{this.renderApp()}</div>;*/}
+        
+        
+        
       </div>
     );
   }
