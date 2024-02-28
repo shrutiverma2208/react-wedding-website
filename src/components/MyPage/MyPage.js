@@ -5,7 +5,7 @@ const MyPage = () => {
     <div style={{textAlign: 'center',
         padding: '100px'}}>
          <h1>Thank you</h1>
-      <p>Welcome to my github!</p>
+      <p>Developed by Shruti Verma</p>
       <a href="https://github.com/shrutiverma2208/react-wedding-website">GitHub Repository</a>
     </div>
   )
