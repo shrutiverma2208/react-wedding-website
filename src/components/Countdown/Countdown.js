@@ -46,7 +46,7 @@ class Countdown extends React.Component {
         <span>{this.state.minutes} Minutes</span>
         <span>{this.state.seconds} Seconds</span>
 
-        <span id="ido"> until </span>
+        <span id="ido"> until we're</span>
         <span id="ido"> Together </span>
       </div>
     );
