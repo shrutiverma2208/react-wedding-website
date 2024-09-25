@@ -25,12 +25,12 @@
     "plane": "By Plane",
     "car": "By car",
     "train": "By train",
-    "planedescription1": "The closest airport is the Chakeri airport. You can catch a cab or local transport from the airport to the venue.",
-    "planedescription2": "The distance from airport to wedding venue is 12km.",
+    "planedescription1": "The closest airport is the Chakeri airport. You can catch a cab or local transport from the airport to the venue.The distance from airport to wedding venue is 12 KM.",
+    "planedescription2": "",
     "planedescription3": " If you are coming from Lucknow Airport, you can catch a Bus from Airport to Kanpur Ramadevi Crossroad. From there you can catch Auto or Cab to Wedding venue to which distance is 8km. ",
     "cardescription": "Seema Guest House is located near Madhulok Hospital, it’s on main road and easy transportation available.",
-    "traindescription": "Kanpur train station(CNB) can be reached by a lot of long-distance trains, as well as by regional trains. You can check the train schedules. From station you can catch local transport or Cab to wedding venue to which diatance is ",
-    "traindescription2": "5.7km"
+    "traindescription": "Kanpur train station(CNB) can be reached by a lot of long-distance trains, as well as by regional trains. You can check the train schedules. From station you can catch local transport or Cab to wedding venue to which diatance is 5.7 KM "
+    
   },
  
   "plusOne": {

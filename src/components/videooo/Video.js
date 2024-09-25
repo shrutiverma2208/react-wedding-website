@@ -1,6 +1,7 @@
 import React from 'react'
 import ganpatiji from "./ganpatiji.mp4"
 
+
 const Video = () => {
   return (
     <div style={{backgroundColor:'#5d6e5d'}}>

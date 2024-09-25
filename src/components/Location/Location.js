@@ -60,7 +60,7 @@ class Location extends React.Component {
               {this.props.t("location.planedescription1", {
                 framework: "react-i18next"
               })}
-              <a
+              {/* <a
                 target="_blank"
                 rel="noopener noreferrer"
                 href="https://www.busradar.com/coach/bari-airport-bri/foggia/"
@@ -68,7 +68,7 @@ class Location extends React.Component {
                 {this.props.t("location.planedescription2", {
                   framework: "react-i18next"
                 })}
-              </a>{" "}
+              </a>{" "} */}
               {this.props.t("location.planedescription3", {
                 framework: "react-i18next"
               })}
@@ -98,7 +98,7 @@ class Location extends React.Component {
               {this.props.t("location.traindescription", {
                 framework: "react-i18next"
               })}
-              <a
+              {/* <a
                 target="_blank"
                 rel="noopener noreferrer"
                 href="https://www.trenitalia.com/tcom-en"
@@ -106,7 +106,7 @@ class Location extends React.Component {
                 {this.props.t("location.traindescription2", {
                   framework: "react-i18next"
                 })}
-              </a>
+              </a> */}
             </span>
           </div>
         </div>
