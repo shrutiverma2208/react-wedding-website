@@ -8,13 +8,13 @@ class AboutUs extends React.Component {
   render() {
     return (
       <div className="section" id="aboutUs">
-        <h2 className="contactus">
+        {/* <h2 className="contactus">
           {this.props.t("contactus.title", {
             framework: "react-i18next"
           })}
-        </h2>
+        </h2> */}
         
-        <p className="moreinfo">
+        {/* <p className="moreinfo">
           {this.props.t("contactus.summary", {
             framework: "react-i18next"
           })}{" "}
@@ -27,7 +27,7 @@ class AboutUs extends React.Component {
             
             
           
-        </p>
+        </p> */}
         <hr />
         <div id="brideandgroom">
           <div id="bride">
