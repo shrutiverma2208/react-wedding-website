@@ -9,16 +9,7 @@ const initialData = {
     },
     username: "AntonioMalafronte"
   },
-  rossella: {
-    RSVP: {
-      name: "Rossella Ferrandino",
-      email: "ross.ferrandino@gmail.com",
-      guests: 0,
-      allergies: "niente",
-      music: "Country Road (Take me home)"
-    },
-    username: "RossellaFerrandino"
-  },
+ 
   wookie: {
     RSVP: {
       name: "Wookie Wookerson",
